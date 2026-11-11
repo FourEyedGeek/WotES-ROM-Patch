@@ -3,7 +3,7 @@
 > **This patch requires PlanetChili's V2.0 patch.** It does not apply to a clean ROM.
 > Patch the clean ROM with [PlanetChili's V2.0 patch](https://github.com/planetchili/wotes_patch) first, then apply this one.
 
-A community ROM patch for *Dungeons & Dragons: Warriors of the Eternal Sun* (Sega Genesis / Mega Drive), built on top of PlanetChili's V2.0 patch. It fixes bugs and adds quality-of-life information screens for players who like to see the numbers. It runs in emulators and is intended for flash carts and FPGA systems.
+A community ROM patch for *Dungeons & Dragons: Warriors of the Eternal Sun* (Sega Genesis / Mega Drive), built on top of PlanetChili's V2.0 patch. It fixes bugs and adds quality of life information screens for players who like to see the numbers. It is designed to run in emulators, on FPGAs, and on Flash Carts.
 
 See [CHANGELOG.md](CHANGELOG.md) for the full list of changes.
 
