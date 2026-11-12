@@ -21,8 +21,10 @@ All changes are relative to PlanetChili's V2.0 patch.
 
 ### Spells and items
 - **Remove Fear** works and the fear does not come back.
-- Thieves no longer shrug off healing, potions and buffs from their friends.
-- **Wand of Fear** wears out like other wands. **Ring of Protection +1** gives AC and saving throws. **Staff** does 1d6.
+- Thieves no longer shrug off healing, potions and buffs from their friends 1/16th of the time.
+- **Wand of Fear** wears out like other wands.
+- **Ring of Protection +1** gives AC and saving throws.
+- **Staff** does 1d6.
 - Unused items repaired for modders: the six special +1 swords, Wand of Paralyzation, Horn of Blasting.
 
 ### Screens
