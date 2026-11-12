@@ -26,7 +26,7 @@ All changes are relative to PlanetChili's V2.0 patch.
 - Thieves no longer shrug off healing, potions and buffs from their friends 1/16th of the time.
 - **Wand of Fear** wears out like other wands.
 - **Ring of Protection +1** gives AC and saving throws.
-- **Staff** does 1d6.
+- **Staff** does 1d6 instead of 1d4, like D&D rules and handbook states.
 - Unused items repaired for modders: the six special +1 swords, Wand of Paralyzation, Horn of Blasting.
 
 ### Screens
