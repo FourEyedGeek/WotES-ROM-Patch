@@ -8,7 +8,7 @@ All changes are relative to PlanetChili's V2.0 patch.
 - **Initiative:** monsters had -2 on every initiative roll. They now roll a plain d6, as in D&D.
 - **Minimum damage:** every hit does at least 1 damage. Penalties could make a hit do nothing, or even heal the target.
 - **Special attacks** (paralysing touches, stings, gazes, energy drain) follow the same rules as normal attacks, including natural 20 always hits and natural 1 always misses.
-- **Bows and slings:** the +1 Bow and +1 Sling now use DEX to hit like the plain ones; the +3 Mace and the Staff use STR again.
+- **Bows and slings:** Fixed the +1 Bow and +1 Sling now use DEX to hit like the plain ones; the +3 Mace and the Staff use STR again.
 
 ### Monsters
 - Damage matched to the official hint book for the Black Dragon, Red Dragon, Green Dragon, Lion, Cave Bear, Fire Elemental, Giant Crab and Allosaurus. Gecko has 4 Hit Dice. Tiny Beastman does 1-7.
