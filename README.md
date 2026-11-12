@@ -5,7 +5,7 @@
 
 A community ROM patch for *Dungeons & Dragons: Warriors of the Eternal Sun* (Sega Genesis / Mega Drive), built on top of PlanetChili's V2.0 patch. It fixes bugs and adds quality of life information screens for players who like to see the numbers. It is designed to run in emulators, on FPGAs, and on flash carts.
 
-See [CHANGELOG.md](CHANGELOG.md) for the full list of changes.
+**Latest: v0.51** – combat, monster and magic-item fixes. See [CHANGELOG.md](CHANGELOG.md) for the full list of changes.
 
 ## Installation
 
@@ -15,8 +15,8 @@ You need your own clean ROM. No ROMs are provided.
    SHA-1 `9135F7FDA03EF7DA92DFADE9C0DF75808214F693`
 2. **Apply PlanetChili's V2.0 patch** to the clean ROM, following the instructions in [planetchili/wotes_patch](https://github.com/planetchili/wotes_patch).
    The result must be: CRC32 `405ED24B`, SHA-1 `2380B201B872F7BD2C66F2A4D82DF86709332D55`
-3. **Apply `WotES-ROM-Patch-v0.40b.bps`** to that Chili V2.0 ROM using [Floating IPS (Flips)](https://www.romhacking.net/utilities/1040/) or [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/). Save it as a new file.
-   The result must be: CRC32 `D698CD36`, SHA-1 `11A37009C1DC0187434677AD7837E355BA5E0924`
+3. **Apply `WotES-ROM-Patch-v0.51.bps`** to that Chili V2.0 ROM using [Floating IPS (Flips)](https://www.romhacking.net/utilities/1040/) or [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/). Save it as a new file.
+   The result must be: CRC32 `C34399DD`, SHA-1 `F4F9C435DD42DD4C09A665754683163C9F7040E1`
 4. Play it in your emulator or copy it to your flash cart.
 
 If the patcher reports a checksum mismatch, your input ROM is not the Chili V2.0 ROM above.
@@ -25,7 +25,7 @@ If the patcher reports a checksum mismatch, your input ROM is not the Chili V2.0
 
 ## Status
 
-Tested in emulators (Kega Fusion, Genesis Plus GX). Not yet tested on original hardware or FPGA; reports are welcome.
+Tested in emulators. Not yet tested on original hardware or FPGA; reports are welcome.
 
 ## Credits
 

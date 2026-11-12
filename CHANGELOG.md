@@ -2,6 +2,32 @@
 
 All changes are relative to PlanetChili's V2.0 patch.
 
+## v0.51
+
+### Combat
+- **Initiative:** monsters had -2 on every initiative roll. They now roll a plain d6, as in D&D.
+- **Minimum damage:** every hit does at least 1 damage. Penalties could make a hit do nothing, or even heal the target.
+- **Special attacks** (paralysing touches, stings, gazes, energy drain) follow the same rules as normal attacks, including natural 20 always hits and natural 1 always misses.
+- **Bows and slings:** the +1 Bow and +1 Sling now use DEX to hit like the plain ones; the +3 Mace and the Staff use STR again.
+
+### Monsters
+- Damage matched to the official hint book for the Black Dragon, Red Dragon, Green Dragon, Lion, Cave Bear, Fire Elemental, Giant Crab and Allosaurus. Gecko has 4 Hit Dice. Tiny Beastman does 1-7.
+- Hellhounds are immune to fire.
+- The Animated Corpse is undead, like the Zombie it is based on.
+
+### Characters
+- **Energy drain** removes the right hit points at levels 10 and 11, and no longer leaves current HP above the maximum.
+- **XP needed:** Thief level 4 is 4,800, Halfling level 8 is 120,000 and Magic-User level 14 is 1,050,000, as in D&D. The status screen shows the right Thief level 5 amount (9,600).
+
+### Spells and items
+- **Remove Fear** works and the fear does not come back.
+- Thieves no longer shrug off healing, potions and buffs from their friends.
+- **Wand of Fear** wears out like other wands. **Ring of Protection +1** gives AC and saving throws. **Staff** does 1d6.
+- Unused items repaired for modders: the six special +1 swords, Wand of Paralyzation, Horn of Blasting.
+
+### Screens
+- Fixed damaged walking frames after using OPTIONS > STATUS EFFECTS or a shop's BUY screen.
+
 ## v0.40b – first public release
 
 ### Fixes
