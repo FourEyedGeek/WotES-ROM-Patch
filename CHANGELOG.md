@@ -11,7 +11,9 @@ All changes are relative to PlanetChili's V2.0 patch.
 - **Bows and slings:** The +1 Bow and +1 Sling now use DEX to hit like the plain ones; the +3 Mace and the Staff use STR again.
 
 ### Monsters
-- Damage matched to the official hint book for the Black Dragon, Red Dragon, Green Dragon, Lion, Cave Bear, Fire Elemental, Giant Crab and Allosaurus. Gecko has 4 Hit Dice. Tiny Beastman does 1-7.
+- Damage matched to the official hint book for the Black Dragon, Red Dragon, Green Dragon, Lion, Cave Bear, Fire Elemental, Giant Crab, and Allosaurus. This caused a 0.5 average increase in damage from them.
+- Gecko has 4 Hit Dice.
+- Tiny Beastman does 1-7, instead of 0-7.
 - Hellhounds are immune to fire.
 - The Animated Corpse is undead, like the Zombie it is based on.
 
