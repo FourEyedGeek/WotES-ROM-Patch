@@ -2,6 +2,23 @@
 
 All changes are relative to PlanetChili's V2.0 patch.
 
+## v0.57
+
+### Rules (BECMI)
+- **Saving throws:** each class now has its own saving throw table across the five D&D categories (death ray/poison, wands, paralysis/turn to stone, dragon breath, spells), using the Rules Cyclopedia tables. Monsters save as Fighters of their Hit Dice. Before, everyone used the Fighter's save against spells for everything. Dwarves and Halflings benefit the most.
+  - Which save applies: spider and scorpion poison, Troglodyte stench, Spitting Cobra spit, Create Poison and Disintegrate use death ray/poison; Ghoul, Gelatinous Cube and Carrion Crawler touches and the Basilisk gaze use paralysis/turn to stone; Wand of Fear and Wand of Paralyzation use wands; everything else uses spells.
+- **To-hit:** hit chances improve by +2 per step, as in BECMI and the original game: Fighters, Dwarves, Elves and Halflings every 3 levels, Clerics and Thieves every 4, Magic-Users every 5.
+
+### Spells and items
+- **Staff of Striking** is a melee weapon as in D&D: it rolls to hit, a hit does 2d6, and it can only wear out on a hit. It used to always hit, like a spell.
+- **Magic Missile** does the original game's damage: 1 missile, plus 2 more every 5 levels, each 1d6+1.
+
+### Differences from PlanetChili V2.0
+These Chili changes are balance choices, not fixes, so this patch uses the BECMI values instead. They are kept for a separate, optional Balance patch.
+- Chili's faster to-hit tables (later steps +3 instead of +2).
+- Chili's to-hit swap that gave the Thief the Fighter's rate and the Elf the Cleric's rate.
+- Chili's INT bonus to Magic Missile damage.
+
 ## v0.51
 
 ### Combat
