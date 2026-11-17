@@ -2,6 +2,23 @@
 
 All changes are relative to PlanetChili's V2.0 patch.
 
+## v0.60b
+
+### Fixes
+- **Readied weapon kept:** with a weapon readied on A or B, picking up a second copy and then selling, dropping or giving away either one cleared the A/B assignment, even though the character still carried the weapon. A/B is now cleared only when no copy is left.
+- **Fair dice:** the game's dice were not fair. When the random number was out of range, the game cut it down instead of rolling again. On a d20, rolls of 1–4 and 17–20 came up 3.1% of the time each and 5–16 came up 6.25% each, so a natural 20 was 3.1%, not 5%. On a d6, 3 and 4 were twice as likely as the other faces; d10, d12 and d100 were uneven too. Every face is now equally likely. This affects every roll: to-hit, damage, saving throws, Thief skills, encounters and treasure. Averages are unchanged; even fights barely change, but long shots and "sure things" do:
+
+  | Per 100 attacks | Before | Now |
+  |---|---|---|
+  | Even fight (needs 12+ on the die) | ~44 hits | ~45 hits |
+  | Natural 20s / natural 1s | ~3 / ~3 | ~5 / ~5 |
+  | Long shot (needs 18+) | ~9 hits | ~15 hits |
+  | Near-certain (needs 5+) | ~88 hits | ~80 hits |
+
+### Quality of life
+- **Change Roster Order stays open** after each swap, so you can reorder the whole party in one visit. Press Start when done. The swap is also immediate: the cursors no longer blink for about 2 seconds.
+- **6-button pad shortcuts on the map:** X opens Inventory and Y opens View Map, then return to the map, as if chosen from Camp. Y only opens a map you have (in dungeons, or once you own the area's map). Start still opens Camp. Set your emulator's or flash cart's pad to 6-button; on a 3-button pad nothing changes.
+
 ## v0.57
 
 ### Rules (BECMI)
