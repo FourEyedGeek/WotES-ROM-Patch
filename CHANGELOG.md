@@ -31,7 +31,7 @@ Everything below is compared with PlanetChili's V2.0 patch. Each release include
 - **Magic Missile** does the original game's damage: 1 missile, plus 2 more every 5 levels, each 1d6+1.
 - **Remove Fear** works and the fear does not come back.
 - **Wand of Fear** wears out like other wands.
-- **Ring of Protection +1** gives AC and saving throws.
+- **Ring of Protection +1** gives 1 better AC and +1 saving throws instead of 1 better AC, +1 To hit, and +1 to Damage.
 - **Staff** does 1d6 instead of 1d4, as the D&D rules and the hint book state.
 - **Ring of Water Walking** works (it did nothing before). It is not yet placed anywhere in the game.
   - While anyone in the party has the ring in **Items Carried**, the whole party can walk on rivers, lakes and their sandy banks, while exploring and in combat. Swamps, lava, cliffs and walls are unchanged. Monsters still cannot enter water.
