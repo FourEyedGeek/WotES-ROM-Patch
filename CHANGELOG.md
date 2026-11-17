@@ -59,7 +59,6 @@ Everything below is compared with PlanetChili's V2.0 patch. Each release include
 - **Shop comparisons:** in weapon and armour shops, BUY shows your current A/B weapons against the highlighted one (hit chance against AC 0 and damage range), or your current and new AC for armour and shields, including active modifiers. C changes character. Nothing is equipped or changed until you buy.
 - **Stench** is shown as a condition in the party status display.
 - **Gauntlets of Ogre Power** show their own artwork on the ground and when picked up (they used another item's sprite).
-- Fixed damaged walking frames after using OPTIONS > STATUS EFFECTS or a shop's BUY screen.
 
 ## Left out on purpose
 A few of PlanetChili's V2.0 changes are balance choices rather than fixes, so this patch uses the BECMI values instead. They are kept for a separate, optional Balance patch, still in development.
